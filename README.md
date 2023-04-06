@@ -1,1 +1,8 @@
-![My nama jeff](https://github.com/leonatajeff/leonatajeff/blob/master/animation-2.gif)
+```
+    .'     '.     .'     '.     .'     '.     .'     '.
+   /  o   o  \   /  o   o  \   /  o   o  \   /  o   o  \
+  |           | |           | |           | |           |
+  |  \     /  | |  \     /  | |  \     /  | |  \     /  |
+   \  '---'  /   \  '---'  /   \  '---'  /   \  '---'  /
+    '._____.'     '._____.'     '._____.'     '._____.'
+```
