@@ -1,1 +1,1 @@
-![My nama jeff]([https://github.com/leonatajeff/leonatajeff/blob/master/animation-2.gif](https://jeffleonata.com/)https://jeffleonata.com/)
+![My nama jeff](https://jeffleonata.com/)
